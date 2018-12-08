@@ -1,0 +1,1 @@
+This is my first GUI app this is made for beginners who are learning python learn from this app make it much better than me
